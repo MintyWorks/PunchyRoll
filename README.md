@@ -1,6 +1,6 @@
 # PunchyRoll
 
-An animation library for Roblox that plays animations without an `Animator`. It is a fork of [CrunchyRoll](https://github.com/ffrostfall/crunchyroll) by ffrostfall, reworked around named animation events and a faster solver.
+An animation library for Roblox that plays animations without an `Animator`. It is a fork of [CrunchyRoll](https://github.com/ffrostfall/crunchyroll) by ffrostfall, reworked around named animation events and with a faster solver.
 
 ## Features
 
