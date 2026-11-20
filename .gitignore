@@ -1,0 +1,14 @@
+.DS_Store
+
+# Moonwave docs
+build
+
+# Rojo
+sourcemap.json
+build.rbxl
+build.rbxl.lock
+
+punchyroll.rbxm
+
+
+globalTypes.d.luau

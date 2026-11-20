@@ -1,0 +1,9 @@
+{
+	"languageMode": "strict",
+
+	"aliases": {
+		"src": "./src/",
+		"tests": "./tests/",
+		"types": "./types/"
+	}
+}

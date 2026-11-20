@@ -1,0 +1,22 @@
+[package]
+name = "mintyworks/punchyroll"
+version = "0.2.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = [
+	".github",
+	".vscode",
+	"benches",
+	"tests",
+	"tools",
+	"types",
+	"docs",
+	"README.md",
+	"CHANGELOG.md",
+	"rokit.toml",
+	"sourcemap.json",
+	"stylua.toml",
+	"build",
+	"punchyroll.rbxm",
+	"globalTypes.d.luau",
+]
