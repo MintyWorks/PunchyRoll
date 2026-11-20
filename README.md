@@ -2,6 +2,8 @@
 
 An animation library for Roblox that plays animations without an `Animator`. It is a fork of [CrunchyRoll](https://github.com/ffrostfall/crunchyroll) by ffrostfall, reworked around named animation events and with a faster solver.
 
+
+
 ## Features
 
 - Animation events by name, such as `hitreg`, with wildcards, parameters (`damage=25;crit`) and `_start`/`_end` windows
@@ -13,6 +15,10 @@ An animation library for Roblox that plays animations without an `Animator`. It 
 - Many easing styles
 - Loader for `KeyframeSequence` and a rig builder for `Motor6D` models
 - Written in strict Luau with `vector` math and no per-frame allocations in the solver
+
+https://github.com/user-attachments/assets/d46ec087-912b-438c-83a9-afe2a398febd
+
+
 
 (Tested in roblox, I forgot to upload the benchmark.sh but it's fine right? hehe...)
 
