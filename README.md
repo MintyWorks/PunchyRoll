@@ -2,6 +2,8 @@
 
 An animation library for Roblox that plays animations without an `Animator`. It is a fork of [CrunchyRoll](https://github.com/ffrostfall/crunchyroll) by ffrostfall, reworked around named animation events and with a faster solver.
 
+
+
 ## Features
 
 - Animation events by name, such as `hitreg`, with wildcards, parameters (`damage=25;crit`) and `_start`/`_end` windows
