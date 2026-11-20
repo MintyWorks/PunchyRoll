@@ -14,6 +14,10 @@ An animation library for Roblox that plays animations without an `Animator`. It 
 - Loader for `KeyframeSequence` and a rig builder for `Motor6D` models
 - Written in strict Luau with `vector` math and no per-frame allocations in the solver
 
+https://github.com/user-attachments/assets/d46ec087-912b-438c-83a9-afe2a398febd
+
+
+
 (Tested in roblox, I forgot to upload the benchmark.sh but it's fine right? hehe...)
 
 ## Example
