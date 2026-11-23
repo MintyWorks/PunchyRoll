@@ -23,6 +23,8 @@ end)
 
 `Player:Update` returns the composed CFrames by joint name. `ModelRig.WriteTransforms` copies each joint's transform into its `Motor6D`, and `ModelRig.WriteParts` moves the parts directly with `BulkMoveTo`.
 
+Animations only run on the machine that plays them. To make other players and the server see them, set up [replication](replication.md).
+
 ## Building clips in code
 
 ```luau
